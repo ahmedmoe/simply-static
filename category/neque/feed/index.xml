@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Neque</title>
+	<title>Neque &#8211; m4m</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description></description>
+	<description>Just another WordPress site</description>
 	<lastBuildDate>
-	Sat, 30 Mar 2019 22:46:01 +0000	</lastBuildDate>
+	Wed, 10 Apr 2019 21:29:00 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

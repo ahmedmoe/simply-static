@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo;  &#8212; WordPress</title>
+	<title>Log In &lsaquo; m4m &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' id='dashicons-css'  href='./wp-includes/css/dashicons.min.css?ver=5.1.1' type='text/css' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='./wp-includes/css/buttons.min.css?ver=5.1.1' type='text/css' media='all' />
@@ -58,12 +58,15 @@
 			</script>
 
 			<p id="backtoblog"><a href="./index.html">
-		&larr; Back to 	</a></p>
+		&larr; Back to m4m	</a></p>
 			
 	</div>
 
 	
-		<div class="clear"></div>
+				<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+				<div class="clear"></div>
 	</body>
 	</html>
 	
